@@ -1,1 +1,2 @@
-Pull Request Git Hub prueba.
+Pull request con conflicto local.
+
